@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Roger
 
-<!--
-**rogercodinach/rogercodinach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Sports Data Scientist | Passion for Football Analytics & Predictive Modeling | Python, SQL, R
 
-Here are some ideas to get you started:
+## 💻 Skills
+- **Languages:** Python, SQL, R
+- **Data Tools:** pandas, numpy, matplotlib, scikit-learn, Power BI
+- **Languages Spoken:** English (C1), Spanish & Catalan (Native)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Interests
+- Football performance analysis
+- Machine learning and predictive modeling
+- Data visualization
