@@ -1,14 +1,21 @@
-# 👋 Hi, I'm Roger
+# Hi, I'm Roger 👋
 
-## 🚀 About Me
-Sports Data Scientist | Passion for Football Analytics & Predictive Modeling | Python, SQL, R
+🎓 Master in Data Science | 🏋️‍♂️ Sports Science Background | 📊 Data & Analytics Enthusiast  
+
+---
 
 ## 💻 Skills
-- **Languages:** Python, SQL, R
-- **Data Tools:** pandas, numpy, matplotlib, scikit-learn, Power BI
-- **Languages Spoken:** English (C1), Spanish & Catalan (Native)
+- **Python, SQL, Jupyter/Colab**  
+- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Power BI  
+- **Data Cleaning & ETL**  
+- **Sports Analytics & Tactical Modelling**  
 
-## ⚡ Interests
-- Football performance analysis
-- Machine learning and predictive modeling
-- Data visualization
+---
+
+## 🌍 Languages
+- **English:** C1 Advanced Certificate  
+- **Spanish & Catalan:** Native  
+
+---
+
+*Passionate about turning data into insights and supporting decision-making in sports and business.*
